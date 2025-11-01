@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" fill="#F8FAFC" />
+  <g transform="translate(100,80)">
+    <rect x="0" y="0" width="1000" height="440" rx="20" fill="white" stroke="#E6EEF8" />
+    <text x="60" y="80" font-family="Inter, sans-serif" font-size="42" fill="#0F172A">Learn AI by building products</text>
+    <text x="60" y="130" font-family="Inter, sans-serif" font-size="22" fill="#475569">Hands-on courses, capstones, and deployable demos.</text>
+    <g transform="translate(700,40)">
+      <rect width="240" height="120" rx="12" fill="#EEF2FF" />
+      <text x="20" y="40" font-family="Inter, sans-serif" font-size="18" fill="#3730A3">LLM Lab</text>
+      <rect y="140" width="240" height="120" rx="12" fill="#FEF3C7" />
+      <text x="20" y="180" font-family="Inter, sans-serif" font-size="18" fill="#92400E">MLOps</text>
+    </g>
+  </g>
+</svg>
