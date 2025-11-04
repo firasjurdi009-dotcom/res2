@@ -1,4 +1,4 @@
-# TixuAI — Next.js starter
+# Aivana — Next.js starter
 
 This repo is a starter kit for a course-selling site. It includes a Next.js landing page, a modular Checkout modal, and example API endpoints for Stripe.
 

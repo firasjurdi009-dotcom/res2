@@ -16,9 +16,9 @@ export default function Home() {
       <header className="bg-white border-b">
         <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <img src="/logo.svg" alt="logo" className="w-10 h-10" />
+            <img src="/logo.png" alt="logo" className="w-10 h-10" />
             <div>
-              <div className="font-bold">TixuAI</div>
+              <div className="font-bold">Aivana</div>
               <div className="text-xs text-gray-500">AI courses for builders</div>
             </div>
           </div>
@@ -94,7 +94,7 @@ export default function Home() {
       </main>
 
       <footer className="bg-white border-t mt-12">
-        <div className="max-w-6xl mx-auto px-6 py-8 text-sm text-gray-600">© {new Date().getFullYear()} TixuAI — Terms • Privacy • Refund policy</div>
+        <div className="max-w-6xl mx-auto px-6 py-8 text-sm text-gray-600">© {new Date().getFullYear()} Aivana — Terms • Privacy • Refund policy</div>
       </footer>
 
       {selected && <CheckoutModal course={selected} onClose={()=>setSelected(null)} />}

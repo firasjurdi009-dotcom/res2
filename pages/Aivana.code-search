@@ -1,0 +1,36 @@
+# Query: Tixuai
+# ContextLines: 1
+
+8 results - 5 files
+
+package-lock.json:
+  1  {
+  2:   "name": "tixuai-nextjs",
+  3    "version": "1.0.0",
+
+  7      "": {
+  8:       "name": "tixuai-nextjs",
+  9        "version": "1.0.0",
+
+package.json:
+  1  {
+  2:   "name": "tixuai-nextjs",
+  3    "version": "1.0.0",
+
+README.md:
+  1: # TixuAI — Next.js starter
+  2  
+
+.idea\modules.xml:
+  4      <modules>
+  5:       <module fileurl="file://$PROJECT_DIR$/.idea/tixuai-nextjs_updated_prices.iml" filepath="$PROJECT_DIR$/.idea/tixuai-nextjs_updated_prices.iml" />
+  6      </modules>
+
+pages\index.jsx:
+  20              <div>
+  21:               <div className="font-bold">TixuAI</div>
+  22                <div className="text-xs text-gray-500">AI courses for builders</div>
+
+  96        <footer className="bg-white border-t mt-12">
+  97:         <div className="max-w-6xl mx-auto px-6 py-8 text-sm text-gray-600">© {new Date().getFullYear()} TixuAI — Terms • Privacy • Refund policy</div>
+  98        </footer>
